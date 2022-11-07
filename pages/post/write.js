@@ -1,4 +1,4 @@
-import Layout from '../../components/Layout'
+import Layout from '../../components/layout'
 import { useRef, useState } from 'react'
 import Link from 'next/link'
 export default function Write() {
