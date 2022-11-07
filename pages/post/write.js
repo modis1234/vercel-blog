@@ -1,6 +1,7 @@
-import Layout from '../../components/layout'
 import { useRef, useState } from 'react'
 import Link from 'next/link'
+import Layout from '../../components/Layout'
+
 export default function Write() {
   const idRef = useRef(undefined)
   const titleRef = useRef(undefined)
